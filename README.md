@@ -1,4 +1,4 @@
-### Hi there 👋
+### Personal profile 👋
 
 <!--
 **camlafit/camlafit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My GitHub Stats](https://raw.githubusercontent.com/camlafit/github-stats/master/generated/overview.svg)]()
+[![My GitHub Language Stats](https://raw.githubusercontent.com/camlafit/github-stats/master/generated/languages.svg)]()
